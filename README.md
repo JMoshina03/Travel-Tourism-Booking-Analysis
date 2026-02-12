@@ -1,6 +1,6 @@
 # Travel and Tourism Dashboard Analysis
 
-Internship Project | SQL | Power BI | Excel
+Internship Project | Excel | SQL | Power BI 
 
 ## Project Overview
 As part of my internship, I analyzed travel and tourism booking data to understand revenue trends, customer behavior, and booking performance. The dataset was cleaned and structured using SQL, and an interactive dashboard was built in Power BI to present key insights.
@@ -25,7 +25,7 @@ As part of my internship, I analyzed travel and tourism booking data to understa
 - Seasonal variation influenced overall revenue performance.
 
 ## Tools Used
-SQL | Power BI | Microsoft Excel
+ Microsoft Excel | SQL | Power BI 
 
 ## Learning Outcome
 This project strengthened my skills in data cleaning, KPI development, dashboard design, and business insight interpretation, preparing me for Business Analyst and Data Analyst roles.
